@@ -1,4 +1,4 @@
-package com.kh.git;
+package com.kh.git.food;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -8,12 +8,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class HelloGitServlet
+ * Servlet implementation class FoodServlet
  */
-@WebServlet("/hellogit.do")
-public class HelloGitServlet extends HttpServlet {
+@WebServlet("/food.do")
+public class FoodServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
+
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
