@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello Git Hello World</title>
+<title>Hello Git Hello World Hello Github</title>
 </head>
 <body>
-	<h1>Hello Git Hello World</h1>
+	<h1>Hello Git Hello World Hello Github</h1>
 	<!-- master start -->
 	<p>master 가나다라마바사</p>
 	<!-- master end -->
