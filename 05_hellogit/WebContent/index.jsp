@@ -9,6 +9,7 @@
 <body>
 	<h1>Hello Git Hello World</h1>
 	<!-- master start -->
+	<p>master 가나다라마바사</p>
 	<!-- master end -->
 	<!-- bugfix start -->
 	<!-- bugfix end -->
