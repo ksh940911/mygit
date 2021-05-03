@@ -8,8 +8,10 @@
 </head>
 <body>
 	<h1>Hello Git Hello World</h1>
-	<p>master가 작성했다.</p>
-	<p>bugfix가 작성했다.</p>
+	<!-- master start -->
+	<!-- master end -->
+	<!-- bugfix start -->
+	<!-- bugfix end -->
 	<a href="${pageContext.request.contextPath}/hellogit.do">hellogit.do</a>
 	<a href="${pageContext.request.contextPath}/food.do">food.do</a>
 	
