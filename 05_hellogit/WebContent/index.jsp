@@ -16,6 +16,5 @@
 	<!-- bugfix end -->
 	<a href="${pageContext.request.contextPath}/hellogit.do">hellogit.do</a>
 	<a href="${pageContext.request.contextPath}/food.do">food.do</a>
-	
 </body>
 </html>
